@@ -12,6 +12,6 @@ These can be used as starting points,
 but also mean there is a completly open source and functional project behind  (with it's api)
 
 - foaf
-- events
+- [/events]events
 - projects
 
