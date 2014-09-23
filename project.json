@@ -1,0 +1,8 @@
+{ "@context": {
+  "doap": "http://usefulinc.com/ns/doap#",
+  "url": "@id",
+  "name": "doap:name",
+  "description": "doap:description"
+  },
+  "homepage": {"@id": "doap:homepage", "@type": "@id"}
+}
