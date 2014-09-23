@@ -1,0 +1,36 @@
+{
+    "@context": "http://schema.org",
+    "@Type": "Organization",
+    "address": {
+        "@Type": "PostalAddress",
+        "postalCode": "",
+        "streetAddress": "",
+        "addressRegion": "",
+        "addressLocality": "",
+        "addressCountry": {
+            "@Type": "Country",
+            "name": ""
+        }
+    },
+    "name": "",
+    "image": "",
+    "description": "",
+    "telephone": "",
+    "url": "",
+    "sameAs": "",
+    "subOrganization": {
+        "@Type": "Organization",
+        "name": "",
+        "url": "",
+        "sameAs": ""
+    },
+    "members": {
+        "@Type": "Person",
+        "email": "",
+        "name": "",
+        "url": "",
+        "sameAs": "",
+        "description": "",
+        "image": ""
+    }
+}
