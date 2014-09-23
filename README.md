@@ -14,6 +14,6 @@ but also mean there is a completly open source and functional project behind  (w
 
 for the moment we used schema.org but freel free to propose equivalent json-ld translated into othervocabularies like Activity Streams or somthing else 
 
-the subject is still being discussed here 
+the subject is still being discussed here https://www.w3.org/wiki/Socialwg
 and it seems we'll be moving to activity streams soon or simply generate both formats
 
