@@ -11,7 +11,6 @@ Dev-Commons applications share some specifities that make them interoperable:
 These can be used as starting points, 
 but also mean there is a completly open source and functional project behind  (with it's api)
 
-- person
-- [/events]events
-- projects
+
+for the moment we used schema.org but freel free to propose equivalent json-ld translated into othervocabularies like Activity Streams or somthing else 
 
