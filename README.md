@@ -21,7 +21,7 @@ Meetups
 the frequent meetups start in september 2014 we are doing 2 sessions (EN,FR)
 it allways happens as a recorded On Air hangout 
 
-[ last French Meetup ](https://www.youtube.com/watch?v=_o7mgs0IyxA) AV, Unisson, GGouv , PH
+[ last French Meetup ](https://www.youtube.com/watch?v=_o7mgs0IyxA) (ettending : AV, Unisson, GGouv , PH)
 
 next up : English Version : 
 
