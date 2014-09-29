@@ -22,8 +22,9 @@ the frequent meetups start in september 2014 we are doing 2 sessions (EN,FR)
 it allways happens as a recorded On Air hangout 
 
 [ last French Meetup ](https://www.youtube.com/watch?v=_o7mgs0IyxA)
-next up : 
-English Version : 
+
+next up : English Version : 
+
 [ Monday 4PM ](https://www.loomio.org/d/dRxfgGNQ/openappjs-project-update-september)
 
 
