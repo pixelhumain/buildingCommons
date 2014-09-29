@@ -9,11 +9,34 @@ Dev-Commons applications share some specifities that make them interoperable:
 - LinkData (json-LD)
 
 These can be used as starting points, 
-but also mean there is a completly open source and functional project behind  (with it's api)
-
+but also mean there is an open source and functional project behind  (with it's api)
 
 for the moment we used schema.org but freel free to propose equivalent json-ld translated into othervocabularies like Activity Streams or somthing else 
 
 the subject is still being discussed here https://www.w3.org/wiki/Socialwg
 and it seems we'll be moving to activity streams soon or simply generate both formats
+
+Meetups 
+===========
+the frequent meetups start in september 2014 we are doing 2 sessions (EN,FR)
+it allways happens as a recorded On Air hangout 
+
+[ last French Meetup ](https://www.youtube.com/watch?v=_o7mgs0IyxA)
+next up : 
+English Version : 
+[ Monday 4PM ](https://www.loomio.org/d/dRxfgGNQ/openappjs-project-update-september)
+
+
+Who 
+===========
+[Assemblée Virtuelle](http://assemblee-virtuelle.org/)
+[Unisson (Imagination.social)](unisson.co)
+[GGouv](http://ggouv.fr/)
+[Pixel Humain / Human Pixel ](http://www.pixelhumain.com/)
+[OmPlanet](http://omplanet.net/)
+[OpenState](http://www.openstate.cc/)
+[Elf Pavlic](https://github.com/elf-pavlik/webprofiled/blob/master/test/fixtures/perpetual-tripper/index.json)
+
+
+
 
