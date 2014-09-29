@@ -25,7 +25,8 @@ it allways happens as a recorded On Air hangout
 
 next up : English Version : 
 
-[ Monday 4PM ](https://www.loomio.org/d/dRxfgGNQ/openappjs-project-update-september)
+[ Monday 4PM ]()
+[links and Discussion from the Hangout]()
 
 
 Who 
