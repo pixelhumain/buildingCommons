@@ -1,0 +1,133 @@
+This First Meetup was positive
+we agreed about collaborative thinking, and building
+our first common goal is fairly easy and simple 
+Anyone interested in Building commons should use this person model 
+to describe themselves minimaly at least in this format 
+https://github.com/pixelhumain/buildingCommons/blob/master/person.json
+and make it available on a server or commit it here to this repo 
+https://github.com/pixelhumain/buildingCommons/members
+
+We'll start the Organization and the Event Json-LD for this event 
+in order to build a common usable Person, Organization, Event JSON-LD starting point
+
+The Meeting Process went fairly well
+Set up using Doodle 
+recorded using Google Hangout on Air : http://youtu.be/R91kOkNgEqY
+
+Tibor Katelbach	20:14
+http://pixelhuamin.com
+https://vimeo.com/74212373
+
+Lynn Foster	20:18
+http://talk.growstuff.org/t/open-food-interoperability-entities-unique-ids-and-semantic-equivalence/93
+	
+elf Pavlik	20:19
+http://lod-cloud.net/
+
+elf Pavlik	20:26
+http://blog.14mmm.org/
+http://talk.growstuff.org/t/open-food-interoperability-entities-unique-ids-and-semantic-equivalence/93
+	
+Jon Richter	20:27
+http://jonrichter.de/
+http://gartenkarte.de/#!index.md
+	
+Lynn Foster	20:29
+mikorizal.org
+http://mikorizal.org
+Jon Richter a coupé le son de elf Pavlik.
+	
+Lynn Foster	20:35
+https://docs.google.com/presentation/d/11Nnkb15ACykYILb8yI1K2xEmcuNgAB5OXNZW7qRx-9k/edit#slide=id.g47d9520ac_014
+	
+Jon Richter	20:37
+http://publicspaceinvaders.org/
+http://nedrossiter.org/?p=371
+	
+elf Pavlik	20:41
+http://patterns.dataincubator.org/book/
+	
+Jon Richter	20:43
+http://networkcultures.org/blog/publication/organized-networks/
+	
+Tibor Katelbach	20:46
+https://github.com/pixelhumain/buildingCommons/blob/master/person.json
+	
+Lynn Foster	20:46
+collaborative dynamic - agree
+	
+Bob Haugen	20:49
+RDF
+	
+Bob Haugen	20:50
+RDF vs OWL vs JSON-LD?
+	
+Tibor Katelbach	20:51
+OWL is like the RDF's Big Dady
+and on top of OWL is OWLD
+	
+Jon Richter	20:52
+JSON-LD is a serialization of RDF, like RDF/XML, Turtle ...
+	
+Jon Richter	20:53
+There was still a second time option in the doodle.
+Next meeting?
+/me asks himself what "+q" means.
+	
+Lynn Foster	20:54
+elf, thanks! i like your approach, and it was good to meet you online
+	
+Tibor Katelbach	20:54
+added to queue
+	
+Jon Richter	20:55
+plp-editor ;)
+	
+elf Pavlik	20:55
+https://github.com/hackers4peace/plp-docs
+elf Pavlik a quitté le chat en groupe.
+	
+Bob Haugen	21:02
+tibor, write down please?
+communi?
+	
+Lynn Foster	21:02
+communected?
+	
+Jon Richter	21:02
+https://github.com/pixelhumain
+https://github.com/pixelhumain/communecter
+Open Knowledge Foundation local squads are also building a multiplicity of "Apps for the City".
+https://github.com/pixelhumain/networkMapping
+	
+Jon Richter	21:06
+Mapping of Mappings ~ Network of Networks ~ Movement of Movements
+	
+Tibor Katelbach	21:06
+connected territory
+I hear you
+I was hoping they would be here
+maybe next time
+	
+Lynn Foster	21:09
+me too, we need to loop them back in if we can
+all experiments are useful
+	
+Bob Haugen	21:10
+different terms! a curse
+i'm good starting with person and organization
+	
+Lynn Foster	21:13
+yes this is a good place to begin, relatively simple and used by everyone
+	
+Tibor Katelbach	21:15
+https://github.com/pixelhumain/buildingCommons/blob/master/person.json
+	
+Jon Richter	21:15
+https://github.com/hackers4peace/
+	
+Lynn Foster	21:16
+(plp editor)
+	
+Jon Richter	21:16
+https://github.com/ouisharelabs/plp-berlin-hacks
