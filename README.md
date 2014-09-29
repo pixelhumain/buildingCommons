@@ -29,13 +29,13 @@ English Version :
 
 Who 
 ===========
-[Assemblée Virtuelle](http://assemblee-virtuelle.org/)
-[Unisson (Imagination.social)](unisson.co)
-[GGouv](http://ggouv.fr/)
-[Pixel Humain / Human Pixel ](http://www.pixelhumain.com/)
-[OmPlanet](http://omplanet.net/)
-[OpenState](http://www.openstate.cc/)
-[Elf Pavlic](https://github.com/elf-pavlik/webprofiled/blob/master/test/fixtures/perpetual-tripper/index.json)
+* [Assemblée Virtuelle](http://assemblee-virtuelle.org/)
+* [Unisson (Imagination.social)](unisson.co)
+* [GGouv](http://ggouv.fr/)
+* [Pixel Humain / Human Pixel ](http://www.pixelhumain.com/)
+* [OmPlanet](http://omplanet.net/)
+* [OpenState](http://www.openstate.cc/)
+* [Elf Pavlic](https://github.com/elf-pavlik/webprofiled/blob/master/test/fixtures/perpetual-tripper/index.json)
 
 
 
