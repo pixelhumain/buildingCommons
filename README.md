@@ -21,11 +21,11 @@ Meetups
 the frequent meetups start in september 2014 we are doing 2 sessions (EN,FR)
 it allways happens as a recorded On Air hangout 
 
-[ last French Meetup ](https://www.youtube.com/watch?v=_o7mgs0IyxA) (attending : AV, Unisson, GGouv , PH)
+[ French Building Commons Meetup #1 ](https://www.youtube.com/watch?v=_o7mgs0IyxA) (attending : AV, Unisson, GGouv , PH)
 
 next up : English Version : 
 
-[ Monday 4PM ]()
+[ English Building Commons Meetup #1 ](https://www.youtube.com/watch?v=R91kOkNgEqY&feature=youtu.be)
 [links and Discussion from the Hangout]()
 
 
