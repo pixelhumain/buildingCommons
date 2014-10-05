@@ -21,12 +21,12 @@ Meetups
 the frequent meetups start in september 2014 we are doing 2 sessions (EN,FR)
 it allways happens as a recorded On Air hangout 
 
-[ French Building Commons Meetup #1 ](https://www.youtube.com/watch?v=_o7mgs0IyxA) (attending : AV, Unisson, GGouv , PH)
+-[ French Building Commons Meetup #1 ](https://www.youtube.com/watch?v=_o7mgs0IyxA) (attending : AV, Unisson, GGouv , PH)
 
 next up : English Version : 
 
-[ English Building Commons Meetup #1 ](https://www.youtube.com/watch?v=R91kOkNgEqY&feature=youtu.be)
-[links and Discussion from the Hangout](https://github.com/pixelhumain/buildingCommons/blob/master/meetups%20and%20links/20140929_BuildingCommons_en.txt)
+- [ English Building Commons Meetup #1 ](https://www.youtube.com/watch?v=R91kOkNgEqY&feature=youtu.be)
+  - [links and Discussion from the Hangout](https://github.com/pixelhumain/buildingCommons/blob/master/meetups%20and%20links/20140929_BuildingCommons_en.txt)
 
 
 Who 
