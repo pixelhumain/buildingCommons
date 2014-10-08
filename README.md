@@ -38,6 +38,8 @@ Who
 * [OmPlanet](http://omplanet.net/)
 * [OpenState](http://www.openstate.cc/)
 * [Elf Pavlic](https://github.com/elf-pavlik/webprofiled/blob/master/test/fixtures/perpetual-tripper/index.json)
+* [Lynn Foster](http://mikorizal.org/lynn_foster.json)
+* [Bob Haugen](http://mikorizal.org/bob_haugen.json)
 
 
 
