@@ -26,8 +26,9 @@ it allways happens as a recorded On Air hangout
 next up : English Version : 
 
 - [ English Building Commons Meetup #1 ](https://www.youtube.com/watch?v=R91kOkNgEqY&feature=youtu.be)
-  - [links and Discussion from the Hangout](https://github.com/pixelhumain/buildingCommons/blob/master/meetups%20and%20links/20140929_BuildingCommons_en.txt)
-
+  - [chat history](https://github.com/pixelhumain/buildingCommons/blob/master/meetups%20and%20links/20140929_BuildingCommons_en.txt)
+- [Building Commons #2](http://youtu.be/6fW8SXRENhc)
+  - [chat history] ()
 
 Who 
 ===========
