@@ -1,0 +1,66 @@
+building Commons #2 EN 
+url : http://youtu.be/6fW8SXRENhc
+
+elf Pavlik	21:14
+http://patterns.dataincubator.org/book/
+	
+Michael Williams	21:15
+https://github.com/valnet/valuenetwork/blob/master/docs/core_model.txt
+"vocabs" work in progress: https://github.com/openvocab/ovn
+	
+Bob Haugen	21:20
+https://docs.google.com/document/d/1T9hSiDVI7HbomD4DETbxCOnHSVq11JCfq7eJyUZsXE8/edit?usp=sharing
+	
+Tibor Katelbach	21:23
+can you tell us a bit more about these netwroks
+	
+Lynn Foster	21:23
+these are food hubs in the US and Canada
+our old software is still used by a couple food networks
+biodynamic?
+the networks we have worked with are small
+letxuga
+http://mikorizal.org/
+	
+Tibor Katelbach	21:35
+pixelhumain.com
+	
+Caroline Smalley	21:54
+http://thecitizensmedia.com/
+	
+elf Pavlik	21:54
+q+ http://www.w3.org/community/webcurrencies/
+	
+Tibor Katelbach	22:05
+lov.okfn.org
+	
+Caroline Smalley	22:08
+http://thecitizensmedia.com/pub/section/the-commons?id=1174
+http://stackoverflow.com/users/479863/mu-is-too-short
+	
+Tibor Katelbach	22:15
+q+ the way our society has grown, it's very hard nowadays to convince someone to work for the commons, on motivation
+	
+Tibor Katelbach	22:22
+it's important to choose the currency we want to be payed in
+not necessarely money
+	
+Caroline Smalley	22:23
+that's a big subject! key to the currency exchange. let's include it in hangout discussion (i.e. part of the 'great currency debate')
+	
+Tibor Katelbach	22:25
+https://mapsengine.google.com/map/u/0/edit?gmp=msp&mid=zMgWlCySDtGc.knfwhsrl9beo
+	
+elf Pavlik	22:25
+http://polyeconomy.info/
+	
+Tibor Katelbach	22:28
+you can add your projects into the map if you like
+	
+elf Pavlik	22:29
+Tib, i'll publish profiles for projects and will provide links for aggregation :)
+	
+Lynn Foster	22:30
+fine
+yes we will need technical conversation before the next meeting probably
+	
