@@ -1,0 +1,1149 @@
+/* 0 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e70"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1000",
+    "insee" : "1053",
+    "article" : "",
+    "name" : "Bourg-en-Bresse",
+    "alternateName" : "BOURG EN BRESSE",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.22139, 
+            46.203289
+        ]
+    },
+    "habitants" : 40972,
+    "densite" : 1717
+}
+
+/* 1 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e71"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1000",
+    "insee" : "1344",
+    "article" : "",
+    "name" : "Saint-Denis-lès-Bourg",
+    "alternateName" : "ST DENIS LES BOURG",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.189545, 
+            46.19981
+        ]
+    },
+    "habitants" : 4145,
+    "densite" : 329
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e72"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1090",
+    "insee" : "1165",
+    "article" : "",
+    "name" : "Francheleins",
+    "alternateName" : "FRANCHELEINS",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.808608, 
+            46.073409
+        ]
+    },
+    "habitants" : 826,
+    "densite" : 61
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e73"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1090",
+    "insee" : "1169",
+    "article" : "",
+    "name" : "Genouilleux",
+    "alternateName" : "GENOUILLEUX",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.786415, 
+            46.119115
+        ]
+    },
+    "habitants" : 320,
+    "densite" : 78
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e74"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1090",
+    "insee" : "1183",
+    "article" : "",
+    "name" : "Guéreins",
+    "alternateName" : "GUEREINS",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.776236, 
+            46.104353
+        ]
+    },
+    "habitants" : 995,
+    "densite" : 221
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e75"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1090",
+    "insee" : "1225",
+    "article" : "",
+    "name" : "Lurcy",
+    "alternateName" : "LURCY",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.782199, 
+            46.063671
+        ]
+    },
+    "habitants" : 199,
+    "densite" : 41
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e76"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1090",
+    "insee" : "1258",
+    "article" : "",
+    "name" : "Montceaux",
+    "alternateName" : "MONTCEAUX",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.796925, 
+            46.096305
+        ]
+    },
+    "habitants" : 672,
+    "densite" : 67
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e77"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1090",
+    "insee" : "1263",
+    "article" : "",
+    "name" : "Montmerle-sur-Saône",
+    "alternateName" : "MONTMERLE SUR SAONE",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.75761, 
+            46.080975
+        ]
+    },
+    "habitants" : 2596,
+    "densite" : 624
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e78"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1100",
+    "insee" : "1011",
+    "article" : "",
+    "name" : "Apremont",
+    "alternateName" : "APREMONT",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.657787, 
+            46.207172
+        ]
+    },
+    "habitants" : 341,
+    "densite" : 23
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e79"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1100",
+    "insee" : "1014",
+    "article" : "",
+    "name" : "Arbent",
+    "alternateName" : "ARBENT",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.6821, 
+            46.295735
+        ]
+    },
+    "habitants" : 3369,
+    "densite" : 143
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e7a"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1100",
+    "insee" : "1031",
+    "article" : "",
+    "name" : "Bellignat",
+    "alternateName" : "BELLIGNAT",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.62927, 
+            46.242185
+        ]
+    },
+    "habitants" : 3233,
+    "densite" : 413
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e7b"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1100",
+    "insee" : "1171",
+    "article" : "",
+    "name" : "Géovreisset",
+    "alternateName" : "GEOVREISSET",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.617365, 
+            46.25552
+        ]
+    },
+    "habitants" : 450,
+    "densite" : 129
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e7c"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1100",
+    "insee" : "1181",
+    "article" : "",
+    "name" : "Groissiat",
+    "alternateName" : "GROISSIAT",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.607938, 
+            46.221761
+        ]
+    },
+    "habitants" : 611,
+    "densite" : 97
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e7d"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1100",
+    "insee" : "1237",
+    "article" : "",
+    "name" : "Martignat",
+    "alternateName" : "MARTIGNAT",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.609009, 
+            46.208903
+        ]
+    },
+    "habitants" : 1003,
+    "densite" : 76
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e7e"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1100",
+    "insee" : "1283",
+    "article" : "",
+    "name" : "Oyonnax",
+    "alternateName" : "OYONNAX",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.64983, 
+            46.244061
+        ]
+    },
+    "habitants" : 23869,
+    "densite" : 663
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e7f"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1110",
+    "insee" : "1012",
+    "article" : "",
+    "name" : "Aranc",
+    "alternateName" : "ARANC",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.508627, 
+            46.003679
+        ]
+    },
+    "habitants" : 291,
+    "densite" : 13
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e80"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1110",
+    "insee" : "1060",
+    "article" : "",
+    "name" : "Brénod",
+    "alternateName" : "BRENOD",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.60645, 
+            46.06089
+        ]
+    },
+    "habitants" : 385,
+    "densite" : 16
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e81"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1110",
+    "insee" : "1080",
+    "article" : "",
+    "name" : "Champdor",
+    "alternateName" : "CHAMPDOR",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.597021, 
+            46.016834
+        ]
+    },
+    "habitants" : 459,
+    "densite" : 26
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e82"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1110",
+    "insee" : "1119",
+    "article" : "",
+    "name" : "Corcelles",
+    "alternateName" : "CORCELLES",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.573805, 
+            46.033465
+        ]
+    },
+    "habitants" : 207,
+    "densite" : 15
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e83"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1110",
+    "insee" : "1121",
+    "article" : "",
+    "name" : "Corlier",
+    "alternateName" : "CORLIER",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.498971, 
+            46.030208
+        ]
+    },
+    "habitants" : 76,
+    "densite" : 14
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e84"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1110",
+    "insee" : "1122",
+    "article" : "",
+    "name" : "Cormaranche-en-Bugey",
+    "alternateName" : "CORMARANCHE EN BUGEY",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.612624, 
+            45.953941
+        ]
+    },
+    "habitants" : 704,
+    "densite" : 37
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e85"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1110",
+    "insee" : "1185",
+    "article" : "",
+    "name" : "Hauteville-Lompnes",
+    "alternateName" : "HAUTEVILLE LOMPNES",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.600384, 
+            45.977894
+        ]
+    },
+    "habitants" : 3895,
+    "densite" : 77
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e86"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1110",
+    "insee" : "1186",
+    "article" : "",
+    "name" : "Hostias",
+    "alternateName" : "HOSTIAS",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.53451, 
+            45.9011
+        ]
+    },
+    "habitants" : 56,
+    "densite" : 5
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e87"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1110",
+    "insee" : "1311",
+    "article" : "",
+    "name" : "Prémillieu",
+    "alternateName" : "PREMILLIEU",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.571148, 
+            45.874106
+        ]
+    },
+    "habitants" : 40,
+    "densite" : 5
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e88"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1110",
+    "insee" : "1417",
+    "article" : "",
+    "name" : "Thézillieu",
+    "alternateName" : "THEZILLIEU",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.597035, 
+            45.89342
+        ]
+    },
+    "habitants" : 297,
+    "densite" : 11
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e89"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1120",
+    "insee" : "1142",
+    "article" : "",
+    "name" : "Dagneux",
+    "alternateName" : "DAGNEUX",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.074808, 
+            45.850729
+        ]
+    },
+    "habitants" : 3317,
+    "densite" : 499
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e8a"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1120",
+    "insee" : "1049",
+    "article" : "La ",
+    "name" : "Boisse",
+    "alternateName" : "LA BOISSE",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.03281, 
+            45.84141
+        ]
+    },
+    "habitants" : 2419,
+    "densite" : 257
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e8b"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1120",
+    "insee" : "1262",
+    "article" : "",
+    "name" : "Montluel",
+    "alternateName" : "MONTLUEL",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.03817, 
+            45.871391
+        ]
+    },
+    "habitants" : 5954,
+    "densite" : 148
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e8c"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1120",
+    "insee" : "1276",
+    "article" : "",
+    "name" : "Niévroz",
+    "alternateName" : "NIEVROZ",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.065138, 
+            45.826526
+        ]
+    },
+    "habitants" : 1061,
+    "densite" : 101
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e8d"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1120",
+    "insee" : "1297",
+    "article" : "",
+    "name" : "Pizay",
+    "alternateName" : "PIZAY",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.089476, 
+            45.887854
+        ]
+    },
+    "habitants" : 433,
+    "densite" : 39
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e8e"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1120",
+    "insee" : "1342",
+    "article" : "",
+    "name" : "Sainte-Croix",
+    "alternateName" : "STE CROIX",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.0527, 
+            45.89552
+        ]
+    },
+    "habitants" : 365,
+    "densite" : 34
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e8f"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1120",
+    "insee" : "1418",
+    "article" : "",
+    "name" : "Thil",
+    "alternateName" : "THIL",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.021161, 
+            45.815003
+        ]
+    },
+    "habitants" : 769,
+    "densite" : 149
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e90"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1130",
+    "insee" : "1035",
+    "article" : "",
+    "name" : "Belleydoux",
+    "alternateName" : "BELLEYDOUX",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.77977, 
+            46.25529
+        ]
+    },
+    "habitants" : 232,
+    "densite" : 13
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e91"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1130",
+    "insee" : "1087",
+    "article" : "",
+    "name" : "Charix",
+    "alternateName" : "CHARIX",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.684055, 
+            46.184014
+        ]
+    },
+    "habitants" : 261,
+    "densite" : 14
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e92"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1130",
+    "insee" : "1152",
+    "article" : "",
+    "name" : "Échallon",
+    "alternateName" : "ECHALLON",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.738864, 
+            46.213274
+        ]
+    },
+    "habitants" : 550,
+    "densite" : 20
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e93"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1130",
+    "insee" : "1174",
+    "article" : "",
+    "name" : "Giron",
+    "alternateName" : "GIRON",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.774038, 
+            46.222587
+        ]
+    },
+    "habitants" : 88,
+    "densite" : 9
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e94"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1130",
+    "insee" : "1204",
+    "article" : "",
+    "name" : "Lalleyriat",
+    "alternateName" : "LALLEYRIAT",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.713585, 
+            46.15424
+        ]
+    },
+    "habitants" : 191,
+    "densite" : 13
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e95"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1130",
+    "insee" : "1300",
+    "article" : "Le ",
+    "name" : "Poizat",
+    "alternateName" : "LE POIZAT",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.696115, 
+            46.144277
+        ]
+    },
+    "habitants" : 270,
+    "densite" : 15
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e96"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1130",
+    "insee" : "1274",
+    "article" : "Les ",
+    "name" : "Neyrolles",
+    "alternateName" : "LES NEYROLLES",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.63205, 
+            46.14133
+        ]
+    },
+    "habitants" : 615,
+    "densite" : 65
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e97"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1130",
+    "insee" : "1269",
+    "article" : "",
+    "name" : "Nantua",
+    "alternateName" : "NANTUA",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.70022, 
+            46.18993
+        ]
+    },
+    "habitants" : 3602,
+    "densite" : 282
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e98"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1130",
+    "insee" : "1298",
+    "article" : "",
+    "name" : "Plagne",
+    "alternateName" : "PLAGNE",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.729023, 
+            46.192166
+        ]
+    },
+    "habitants" : 73,
+    "densite" : 12
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e99"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1130",
+    "insee" : "1357",
+    "article" : "",
+    "name" : "Saint-Germain-de-Joux",
+    "alternateName" : "ST GERMAIN DE JOUX",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            5.73822, 
+            46.17925
+        ]
+    },
+    "habitants" : 465,
+    "densite" : 41
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e9a"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1140",
+    "insee" : "1167",
+    "article" : "",
+    "name" : "Garnerans",
+    "alternateName" : "GARNERANS",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.840852, 
+            46.20588
+        ]
+    },
+    "habitants" : 484,
+    "densite" : 56
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e9b"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1140",
+    "insee" : "1188",
+    "article" : "",
+    "name" : "Illiat",
+    "alternateName" : "ILLIAT",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.888909, 
+            46.189624
+        ]
+    },
+    "habitants" : 396,
+    "densite" : 19
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e9c"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1140",
+    "insee" : "1252",
+    "article" : "",
+    "name" : "Mogneneins",
+    "alternateName" : "MOGNENEINS",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.807472, 
+            46.14215
+        ]
+    },
+    "habitants" : 491,
+    "densite" : 57
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e9d"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1140",
+    "insee" : "1295",
+    "article" : "",
+    "name" : "Peyzieux-sur-Saône",
+    "alternateName" : "PEYZIEUX SUR SAONE",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.816712, 
+            46.127239
+        ]
+    },
+    "habitants" : 245,
+    "densite" : 28
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e9e"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1140",
+    "insee" : "1348",
+    "article" : "",
+    "name" : "Saint-Didier-sur-Chalaronne",
+    "alternateName" : "ST DIDIER SUR CHALARONNE",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.818513, 
+            46.17818
+        ]
+    },
+    "habitants" : 2065,
+    "densite" : 83
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("54264766c0461f5146950e9f"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1140",
+    "insee" : "1351",
+    "article" : "",
+    "name" : "Saint-Étienne-sur-Chalaronne",
+    "alternateName" : "ST ETIENNE SUR CHALARONNE",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.866265, 
+            46.14744
+        ]
+    },
+    "habitants" : 1037,
+    "densite" : 49
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("54264766c0461f5146950ea0"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1140",
+    "insee" : "1420",
+    "article" : "",
+    "name" : "Thoissey",
+    "alternateName" : "THOISSEY",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.802998, 
+            46.172559
+        ]
+    },
+    "habitants" : 1306,
+    "densite" : 975
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("54264766c0461f5146950ea1"),
+    "@context" : "schema",
+    "@type" : "City",
+    "cp" : "1140",
+    "insee" : "1428",
+    "article" : "",
+    "name" : "Valeins",
+    "alternateName" : "VALEINS",
+    "region" : "82",
+    "dep" : "1",
+    "geo" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            4.87112, 
+            46.11229
+        ]
+    },
+    "habitants" : 61,
+    "densite" : 14
+}
