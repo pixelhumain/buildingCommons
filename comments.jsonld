@@ -1,0 +1,35 @@
+{
+    "@context": "http://schema.org",
+    "@Type": "Comment",
+    "inLanguage": "",
+    "genre": "",
+    "keywords": "",
+    "mentions": "",
+    "image": "",
+    "name": "",
+    "url": "",
+    "text": "",
+    "thumbnailUrl": "",
+    "discussionUrl": "",
+    "datePublished": "",
+    "dateModified": "",
+    "dateCreated": "",
+    "creator": {
+        "@Type": "Person",
+        "email": "",
+        "url": "",
+        "name": ""
+    },
+    "comment": {
+        "@Type": "UserComments",
+        "commentText": "",
+        "commentTime": "",
+        "replyToUrl": "",
+        "creator": {
+            "@Type": "Person",
+            "email": "",
+            "name": "",
+            "url": ""
+        }
+    }
+}
