@@ -44,6 +44,7 @@ Who
 * [Lynn Foster](http://mikorizal.org/lynn_foster.json)
 * [Bob Haugen](http://mikorizal.org/bob_haugen.json)
 * [Open Value Network](https://github.com/openvocab/ovn)
+* [jon Richter / Transformap](http://blog.14mmm.org/)
 
 
 
