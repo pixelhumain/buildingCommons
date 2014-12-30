@@ -6,13 +6,15 @@
 "parentType" : "project || task",
 "author": "",
 "assignedTo" : "",
-"type" : "",
+"modifiedBy" : [],
+"type" : "",  
 "createdDate" : "",
 "updatedDate" : "",
 "startDate" : "",
 "endDate" : "",
 "percent" : "",
 "status" : "",
+"priority" : "urgent || high || normal || low",
 "tags" : [""],
 "properties" : {
   "":""
