@@ -2,6 +2,7 @@
 "name":"",
 "description":"",
 "shortdesc":"",
+//"problem" : ""
 "parentId": ,
 "parentType" : "project || task",
 "author": "",
@@ -12,6 +13,8 @@
 "updatedDate" : "",
 "startDate" : "",
 "endDate" : "",
+//"estimatedStartDate" : ,
+//"estimatedEndDate" : ,
 "percent" : "",
 "status" : "",
 "priority" : "urgent || high || normal || low",
