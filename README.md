@@ -5,8 +5,12 @@ This is repo lists of json-LD structures coming from Building Commons projects (
 It's a list of json-ld structures working on dev-commons projects and are allready final and functional 
 Dev-Commons applications share some specifities that make them interoperable: 
 - Open Apis
-- Common Vocabulary using Web Semantics like schema.org, Activity Streams or any other existing Ontologies/vocabulary
-- LinkData (json-LD)
+- Common Vocabulary using Web Semantics
+-- [schema.org](schema.org) 
+-- [Activity Streams](https://github.com/activitystreams/activity-schema/blob/master/activity-schema.md)
+-- [Microformat](http://microformats.org)
+--  [or any other existing Ontologies/vocabulary](http://lov.okfn.org/dataset/lov/)
+- [LinkData (json-LD)](http://json-ld.org/)
 
 These can be used as starting points, 
 but also mean there is an open source and functional project behind  (with it's api)
