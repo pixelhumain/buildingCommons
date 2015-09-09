@@ -1,0 +1,71 @@
+{ "@context": {
+  "doap": "http://usefulinc.com/ns/doap#",
+  "url": "@id",
+  "name": "doap:name",
+  "description": "doap:description"
+  },
+  "homepage": {"@id": "doap:homepage", "@type": "@id"}
+}
+
+{
+"@context": {
+    "@vocab": "http://schema.org/",
+    "as": "http://activitystrea.ms/2.0/",
+    “tmp”: “http://example.net/tmp#,
+    “subjectOf”: { “@reverse”: “about” }  },
+
+    @id: "/api/v1/project/1/"
+   tmp:slug slug: "fix-my-street"
+    as:tag tags: "citoyens, crowdsourcing, participation, urbain, ville, mapping, fixmystreet"
+    name: "Fix my street"
+   tmp:baseline: "Application qui permet aux citoyens d'indiquer les problèmes à leurs institutions municipales"
+ description: "FixMyStreet (traduction libre: Réparez ma rue) est un logiciel libre (http://code.fixmystreet.com/) qui permet aux citoyens, à l'aide d'une carte interactive éditable par internet, d'informer leurs autorités locales des problèmes qui doivent être adressés dans leur quartier ...etc. " 
+    location: {
+      "@type":"PostalAddress",
+     streetAddress : "mySociety PO Box 839 Oxford OX1 9LG"
+     country: "BE"
+    }
+    status: "END"
+   url website: "http://www.fixmystreet.com/"
+   image cover_picture:{
+     thumb: "http://imaginationforpeople.org/site_media/../image_bf_imagelogofixmystreet_1_thumbnail_api.png"
+     url: "http://imaginationforpeople.org/site_media/../image_bf_imagelogofixmystreet_1_display_api.png"
+    }
+    project_sheet: {
+     pictures_gallery: [1]
+         0:  {
+             author: ""
+             created: "2011-04-04"
+             desc: ""
+             source: ""
+             thumb: "http://i4p.org/site_media/.../image_bf_imagelogofixmystreet_1_thumbnail_api.png"
+             url: "http://i4p.org/site_media/.../image_bf_imagelogofixmystreet_1_display_api.png"
+         }
+    tmp:question questions: [3]
+         0:  {
+             answer: "FixMyStreet is a creative crowdsourcing initiative that establishes a link between citizens and municipal institutions."
+             question: "in what ways is this project unique and creative?"
+         },
+         1:  {
+             answer: "By allowing citizens to directly identify problems in their neighbourhoods, cities are able to address problems more quickly and have a better idea of what is happening in the neighbourhoods. Approximately 45% of problems submitted through FixMyStreet are addressed. From the citizen's perspective, Fixmystreet introduces citizens to the benefits of using community tools and communities to new Internet uses. It creates a bridge between stakeholders, promotes exchange and all of it contributes to improving the city. "
+             question: "What is the social value of this project?"
+         },
+         2:  {
+             answer: "The British concept of FixMyStreet has been adapted in a number of countries like the Netherlands and Canada where it is maintained by the nonprofit organization VisibleGovernment.ca. It will soon be available in New Zealand. The tool can easily be implemented in other jurisdictions because it was developed in open source. "
+             question: "what is the potential of this project to expand and develop?"
+         },
+     sameAs references: [2]
+         0:  {
+             desc: "http://en.wikipedia.org/wiki/MySociety "
+         }
+         1:  {
+             desc: "http://www.mysociety.org/projects/fixmystreet/ "
+         }
+     videos: [1]
+         0:  {
+             video_url: "http://www.youtube.com/watch?v=VuJqk7i-eFw"
+         }
+
+    }
+}
+

@@ -1,0 +1,32 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Place",
+    "name": "",
+    "image": "",
+    "description": "",
+    "url": "",
+    "sameAs": "",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "",
+        "longitude": ""
+    },
+    "events": {
+        "@Type": "Event",
+        "name": "",
+        "sameAs": "",
+        "performers": {
+            "@type": "Organization",
+            "email": ""
+        }
+    },
+    "containedIn": {
+        "@type": "Place",
+        "sameAs": "",
+        "name": ""
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": ""
+    }
+}

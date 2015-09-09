@@ -8,7 +8,10 @@ and make it available on a server or commit it here to this repo
 https://github.com/pixelhumain/buildingCommons/members
 
 We'll start the Organization and the Event Json-LD for this event 
+https://github.com/pixelhumain/buildingCommons/blob/master/organisation.json
 in order to build a common usable Person, Organization, Event JSON-LD starting point
+
+
 
 The Meeting Process went fairly well
 Set up using Doodle 

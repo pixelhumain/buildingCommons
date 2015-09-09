@@ -1,0 +1,524 @@
+{
+    "_id" : ObjectId("520931e2f6b95c5cd3003d6c"),
+    "actions" : {
+        "actionRooms" : {
+            "559c1b78f6ca47c5048b456d" : {
+                "comment" : "comment"
+            }
+        },
+        "comments" : {
+            "55cc5181f6ca47891d8b4571" : {
+                "voteDown" : "voteDown",
+                "voteUp" : "voteUp"
+            },
+            "55d1b33cf6ca47b40156b7ce" : {
+                "voteUp" : "voteUp"
+            }
+        },
+        "news" : {
+            "558be433f6ca47f31a8b4570" : {
+                "comment" : "comment"
+            }
+        },
+        "surveys" : {
+            "53905960faf81397a0c2628b" : {
+                "voted" : "voteUp"
+            },
+            "539096d1faf81397a0c2628d" : {
+                "voted" : "voteDown"
+            },
+            "5390ae10faf81397a0c2628e" : {
+                "voted" : "voteAbstain"
+            },
+            "5391caf352b2a1111dcf6b89" : {
+                "voteUp" : "voteUp"
+            },
+            "5392b5cd52b2a1111dcf6b8b" : {
+                "voteUp" : "voteUp"
+            },
+            "5392b82c52b2a1111dcf6b8d" : {
+                "voteUp" : "voteUp"
+            },
+            "5392b85252b2a1111dcf6b8e" : {
+                "voteUp" : "voteUp"
+            },
+            "5392e78d52b2a1111dcf6b8f" : {
+                "voteUp" : "voteUp"
+            },
+            "5392fb3d52b2a1111dcf6b91" : {
+                "voteDown" : "voteDown"
+            },
+            "5392fbf152b2a1111dcf6b92" : {
+                "voteDown" : "voteDown"
+            },
+            "53955ade38a0318596e5beae" : {
+                "follow" : "follow",
+                "voteAbstain" : "voteAbstain"
+            },
+            "53955c0b38a0318596e5beaf" : {
+                "voteUp" : "voteUp"
+            },
+            "5396ff5038a0318596e5beb9" : {
+                "follow" : "follow",
+                "voteUp" : "voteUp"
+            },
+            "5396ff6f38a0318596e5beba" : {
+                "voteDown" : "voteDown"
+            },
+            "539704f938a0318596e5bebb" : {
+                "voteUp" : "voteUp"
+            },
+            "53974fd738a0318596e5bebc" : {
+                "voteUp" : "voteUp"
+            },
+            "53974fe638a0318596e5bebd" : {
+                "voteUp" : "voteUp"
+            },
+            "53974ff038a0318596e5bebe" : {
+                "voteUp" : "voteUp"
+            },
+            "53999b0738a0318596e5bec0" : {
+                "voteUp" : "voteUp"
+            },
+            "539f1b36d927ddd7d4d1c246" : {
+                "comment" : "comment",
+                "follow" : "follow",
+                "voteMoreInfo" : "voteMoreInfo"
+            },
+            "53a7205a9f5d754ead685633" : {
+                "voteUp" : "voteUp"
+            },
+            "53a7c26b9f5d754ead68563d" : {
+                "voteMoreInfo" : "voteMoreInfo"
+            },
+            "53a7c2719f5d754ead68563f" : {
+                "voteDown" : "voteDown"
+            },
+            "53a7cff39f5d754ead685640" : {
+                "voteMoreInfo" : "voteMoreInfo"
+            },
+            "53a7eec79f5d754ead685646" : {
+                "voteUp" : "voteUp"
+            },
+            "53a7f21b9f5d754ead685647" : {
+                "voteAbstain" : "voteAbstain"
+            },
+            "558db559f6ca477f218b456b" : {
+                "voteUp" : "voteUp"
+            },
+            "558dbb9ef6ca470d2b8b4568" : {
+                "voteMoreInfo" : "voteMoreInfo"
+            },
+            "558dbbf2c3d4331cb4d59f05" : {
+                "voteAbstain" : "voteAbstain"
+            },
+            "55900783cacc5d92b2fafdfc" : {
+                "voteUp" : "voteUp"
+            },
+            "55901139cacc5d92b2fafdfe" : {
+                "comment" : "comment",
+                "voteUp" : "voteUp"
+            },
+            "55915526cacc5d92b2fafe23" : {
+                "voteUp" : "voteUp"
+            },
+            "55919e51cacc5d92b2fafe27" : {
+                "voteUp" : "voteUp"
+            },
+            "55bf2bee5802a0f02e93927d" : {
+                "comment" : "comment",
+                "voteUp" : "voteUp"
+            },
+            "55c884d94b72b9a80d34ecde" : {
+                "comment" : "comment",
+                "voteUp" : "voteUp"
+            },
+            "55cada644b72b9a80d34ed01" : {
+                "voteUp" : "voteUp"
+            },
+            "55cb0f3b4b72b9a80d34ed08" : {
+                "voteUp" : "voteUp"
+            },
+            "55cb494f4b72b9a80d34ed0b" : {
+                "voteUp" : "voteUp"
+            },
+            "55cb570c4b72b9a80d34ed11" : {
+                "voteUp" : "voteUp"
+            },
+            "55cb6d364b72b9a80d34ed17" : {
+                "voteUp" : "voteUp"
+            },
+            "55cb8a724b72b9a80d34ed1c" : {
+                "comment" : "comment"
+            },
+            "55d315c8b5a6a33002e8ff3b" : {
+                "comment" : "comment"
+            }
+        }
+    },
+    "activeOnProject" : "on",
+    "activeTags" : [ 
+        "Musicien"
+    ],
+    "address" : {
+        "@type" : "PostalAddress",
+        "addressLocality" : "LA RIVIERE",
+        "codeInsee" : "97414",
+        "postalCode" : "97421",
+        "region" : "974",
+        "streetAddress" : "102a rue pierre payet"
+    },
+    "applications" : {
+        "egpc" : {
+            "usertype" : "egpc",
+            "registrationConfirmed" : true,
+            "isAdmin" : true
+        },
+        "sig" : {
+            "usertype" : "egpc",
+            "registrationConfirmed" : true,
+            "isAdmin" : true
+        },
+        "meeteem" : {
+            "usertype" : "meeteem",
+            "isAdmin" : true
+        },
+        "waterwatcher" : {
+            "usertype" : "waterwatcher",
+            "isAdmin" : true
+        },
+        "communecter" : {
+            "usertype" : "communecter",
+            "isAdmin" : true
+        },
+        "survey" : {
+            "usertype" : "survey",
+            "isAdmin" : true
+        },
+        "pppm" : {
+            "usertype" : "pppm",
+            "isAdmin" : true
+        },
+        "azotlive" : {
+            "usertype" : "azotlive",
+            "musicTypes" : [ 
+                "reggae", 
+                "rockAlternatif"
+            ]
+        }
+    },
+    "birth" : "09/04/1980",
+    "birthDate" : ISODate("1980-01-11T22:02:07.000+04:00"),
+    "city" : "LA RIVIERE",
+    "country" : "Réunion",
+    "cp" : "97421",
+    "created" : "1378315272",
+    "description" : "Rien n'est plus dangeureux qu'une idée qui a pris tout son temps pour naitre",
+    "email" : "oceatoon@gmail.com",
+    "events" : [ 
+        ObjectId("5512db23f6b95cd00f002fe4")
+    ],
+    "geo" : {
+        "@type" : "GeoCoordinates",
+        "latitude" : "0.00000000",
+        "longitude" : "0.00000000"
+    },
+    "img" : "upload/citoyens/520931e2f6b95c5cd3003d6c.jpg",
+    "isAdmin" : true,
+    "isOpendata" : true,
+    "links" : {
+        "events" : {
+            "54f58971f6b95c8c74001d5c" : {
+                "type" : "events"
+            },
+            "552dfd5af6b95c24960061f1" : {
+                "isAdmin" : true
+            },
+            "5535fb40f6b95c701400223b" : {
+                "isAdmin" : true
+            },
+            "55360ab8f6b95c7014006a51" : {
+                "isAdmin" : true
+            },
+            "55360f45f6b95c3803007ccc" : {
+                "isAdmin" : true
+            },
+            "554a115ff6ca47744c8b4575" : {
+                "isAdmin" : true
+            },
+            "554c577ef6ca47230c8b456b" : {
+                "isAdmin" : true
+            },
+            "555da665f6ca472c298b456a" : {
+                "isAdmin" : true
+            },
+            "555dce4af6ca47cf418b4568" : {
+                "isAdmin" : true
+            },
+            "5579f9a7f6ca470b758b4569" : {
+                "isAdmin" : true
+            },
+            "5579f9f0f6ca471c688b4577" : {
+                "isAdmin" : true
+            },
+            "557a64f2f6ca4711028b4567" : {
+                "isAdmin" : true
+            },
+            "557a653af6ca470b758b456a" : {
+                "isAdmin" : true
+            },
+            "557e5ee8f6ca47ab2019eb1c" : {
+                "isAdmin" : true
+            },
+            "557ee4adf6ca478d7319eb15" : {
+                "isAdmin" : true
+            },
+            "55927ef5f6ca47ef4da1eec9" : {
+                "isAdmin" : true
+            },
+            "55a786fcf6ca473b2f8b4569" : {
+                "isAdmin" : true
+            },
+            "55d1d13bf6ca477a0d56b7cd" : {
+                "isAdmin" : true
+            },
+            "55d313a4f6ca47a65656b834" : {
+                "isAdmin" : true
+            },
+            "55d41380f6ca47777d56b7ee" : {
+                "isAdmin" : true
+            },
+            "55d47a4bf6ca47d44f56b7d5" : {
+                "isAdmin" : true
+            },
+            "55d6364ef6ca47133d56b7e3" : {
+                "isAdmin" : true
+            }
+        },
+        "knows" : {
+            "5374fc91f6b95c9c1b000871" : {
+                "type" : "citoyens"
+            }
+        },
+        "memberOf" : {
+            "53834072f6b95c881d00588b" : {
+                "type" : "organizations",
+                "isAdmin" : true
+            },
+            "54eed32ca1aa143e020041c4" : {
+                "roles" : [ 
+                    ""
+                ],
+                "type" : "organizations"
+            },
+            "54eed4efa1aa1458b70041ac" : {
+                "type" : "organizations",
+                "isAdmin" : true
+            },
+            "54eed5bba1aa143e020041c6" : {
+                "type" : "organizations",
+                "isAdmin" : true
+            },
+            "54eed73ca1aa1453020041c3" : {
+                "type" : "organizations",
+                "isAdmin" : true
+            },
+            "54eed904a1aa1458b70041ae" : {
+                "type" : "organizations",
+                "isAdmin" : true
+            },
+            "54eed904a1aa1958b70041ef" : {
+                "type" : "organizations",
+                "isAdmin" : true
+            },
+            "54eed95ea1aa143e020041c8" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "54eedd91a1aa1440020041aa" : {
+                "type" : "organizations",
+                "isAdmin" : true
+            },
+            "54eedd91a1aa1440020041bb" : {
+                "type" : "organizations",
+                "isAdmin" : true
+            },
+            "54eedd91a1aa1440020041c4" : {
+                "type" : "organizations",
+                "isAdmin" : true
+            },
+            "552df896f6b95c2496004b9a" : {
+                "isAdmin" : "true",
+                "type" : "organizations"
+            },
+            "55364117f6b95cdc16007449" : {
+                "roles" : [ 
+                    ""
+                ],
+                "type" : "organizations"
+            },
+            "55375430f6b95c3c1c004cd5" : {
+                "isAdmin" : "true",
+                "type" : "organizations"
+            },
+            "55389019f6b95c1c1c0064a1" : {
+                "isAdmin" : "true",
+                "type" : "organizations"
+            },
+            "55389157f6b95c1c1c003372" : {
+                "isAdmin" : "true",
+                "type" : "organizations"
+            },
+            "5539eb8af6b95cac1800448e" : {
+                "isAdmin" : "true",
+                "type" : "organizations"
+            },
+            "5539ef42f6b95cac180013ba" : {
+                "isAdmin" : "true",
+                "type" : "organizations"
+            },
+            "5539f0cbf6b95c5005001a2b" : {
+                "isAdmin" : "true",
+                "type" : "organizations"
+            },
+            "5539f368f6b95c50050058df" : {
+                "isAdmin" : "true",
+                "type" : "organizations"
+            },
+            "553e1d45f6b95c201c0025cd" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "553e1e85f6b95c301c005327" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "557e7657f6ca476c1019eb2a" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "559fd4c0f6ca47e6638b4570" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55a0276bf6ca47d8558b45b5" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55a0290ff6ca470d0e8b458d" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55a78684f6ca472a278b457e" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55b5d7caf6ca47e34ceaf125" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55d1cfccf6ca47420d56b7ca" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55d6209af6ca478a3856b7cf" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55d62ba1f6ca47ca3f56b7ca" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55dc4787f6ca470c248b4581" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55ddfde6f6ca47040d8b4581" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55df4568f6ca4793598b4568" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55e405c6f6ca47bc5a3fd88e" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55e807e7f6ca47f1388b456d" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55e93788f6ca47e4588b456b" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            },
+            "55efeecaf6ca47145b8b4568" : {
+                "isAdmin" : true,
+                "type" : "organizations"
+            }
+        },
+        "projects" : {
+            "54f5897ef6b95c8c74005c04" : {
+                "type" : "projects"
+            },
+            "556767a5f6ca4723538b4569" : {
+                "type" : "projects"
+            },
+            "55acf719f6ca47476284ad95" : {
+                "isAdmin" : true,
+                "type" : "projects"
+            },
+            "55d1d1ddf6ca47090e56b7d0" : {
+                "isAdmin" : true,
+                "type" : "projects"
+            },
+            "55e87805f6ca4700508b456f" : {
+                "isAdmin" : true,
+                "type" : "projects"
+            },
+            "55e9affff6ca47ab028b4568" : {
+                "isAdmin" : true,
+                "type" : "projects"
+            },
+            "55e9b05cf6ca47f04f8b457f" : {
+                "isAdmin" : true,
+                "type" : "projects"
+            }
+        }
+    },
+    "name" : "Tibor",
+    "phoneNumber" : "+262-262343686",
+    "positions" : [ 
+        "developpeur", 
+        "chefDeProjet"
+    ],
+    "preferences" : {
+        "bgClass" : "bggreen",
+        "bgUrl" : "http://127.0.0.1/ph/upload/communecter/projects/55e87805f6ca4700508b456f/1062974410523163414479805960766352133403765n.jpg"
+    },
+    "pwd" : "6354bc78c6535fe815ec9a78ebcd7ccf12ebe87622977a1651906204be462e75",
+    "roles" : {
+        "superAdmin" : true,
+        "standalonePageAccess" : true
+    },
+    "skype" : "oceatoon",
+    "socialNetwork" : {
+        "facebookAccount" : "https://www.facebook.com/tib.kat",
+        "gitHubAccount" : "https://github.com/oceatoon",
+        "gplusAccount" : "oceatoon@gmail.com",
+        "linkedInAccount" : "https://www.linkedin.com/pub/tibor-katelbach/10/118/94a",
+        "skypeAccount" : "oceatoon",
+        "twitterAccount" : "https://twitter.com/oceatoon"
+    },
+    "supervisor" : "",
+    "tags" : [ 
+        "Musicien", 
+        "developpeur", 
+        "surfeur", 
+        "apnée", 
+        "Oceanographie"
+    ],
+    "type" : "citoyen",
+    "url" : "http://oceatoon.org"
+}

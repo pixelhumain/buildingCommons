@@ -1,0 +1,116 @@
+{
+    "_id" : ObjectId("55acf719f6ca47476284ad95"),
+    "address" : {
+        "@type" : "PostalAddress",
+        "postalCode" : "97421",
+        "addressLocality" : "LA RIVIERE",
+        "codeInsee" : "97414"
+    },
+    "created" : 1.4374e+09,
+    "creator" : "520931e2f6b95c5cd3003d6c",
+    "description" : "<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>t'as des chose ad ire<br>",
+    "endDate" : ISODate("2015-07-20T21:26:00.000+04:00"),
+    "geo" : {
+        "@type" : "GeoCoordinates",
+        "latitude" : "-21.25833300",
+        "longitude" : "55.44166700"
+    },
+    "links" : {
+        "contributors" : {
+            "520931e2f6b95c5cd3003d6c" : {
+                "type" : "citoyens",
+                "isAdmin" : true
+            },
+            "5252f3d3f6b95c2017002242" : {
+                "type" : "citoyens"
+            },
+            "54eda798f6b95cb404000903" : {
+                "type" : "citoyens"
+            },
+            "54edb794f6b95c3c2a000941" : {
+                "type" : "organizations"
+            },
+            "54eed904a1aa1458b70041ae" : {
+                "type" : "organizations"
+            },
+            "54eed904a1aa1958b70041ef" : {
+                "type" : "organizations"
+            },
+            "54eedd91a1aa1440020041bb" : {
+                "type" : "organizations"
+            },
+            "54fda1a0f6b95c401700384e" : {
+                "type" : "organizations"
+            }
+        }
+    },
+    "name" : "jardin partagé",
+    "properties" : {
+        "chart" : {
+            "gouvernance" : "31",
+            "partage" : "31",
+            "solidaire" : "27",
+            "local" : "62",
+            "travail" : "46",
+            "test" : "25",
+            "amitier" : "80"
+        }
+    },
+    "startDate" : ISODate("2015-07-20T21:26:00.000+04:00"),
+    "tasks" : {
+        "55ad06ccf6ca47293184adb3" : {
+            "name" : "tache 1",
+            "color" : "default",
+            "startDate" : "2015-07-22",
+            "endDate" : "2015-08-27"
+        },
+        "55ad06daf6ca473c6c84ad94" : {
+            "name" : "tache 2",
+            "color" : "dolor",
+            "startDate" : "2015-09-30",
+            "endDate" : "2015-10-30"
+        },
+        "55ad06e8f6ca475c5584ad9f" : {
+            "name" : "tache 3 ",
+            "color" : "dolor",
+            "startDate" : "2016-04-14",
+            "endDate" : "2016-05-14"
+        },
+        "55ad0705f6ca47e56184ada5" : {
+            "name" : "tache ",
+            "color" : "sit",
+            "startDate" : "2015-07-20",
+            "endDate" : "2016-02-25"
+        },
+        "55ad0743f6ca47c65284ad9d" : {
+            "name" : "tache 5",
+            "color" : "lorem",
+            "startDate" : "2015-07-20",
+            "endDate" : "2015-07-20"
+        },
+        "55ad0769f6ca47236c84ad97" : {
+            "name" : "tache 6",
+            "color" : "sit",
+            "startDate" : "2016-04-15",
+            "endDate" : "2016-08-25"
+        },
+        "55ad079cf6ca473c6c84ad96" : {
+            "name" : "tach 7",
+            "color" : "default",
+            "startDate" : "2015-07-28",
+            "endDate" : "2015-07-31"
+        },
+        "55ad07cdf6ca47c76b84ad97" : {
+            "name" : "tache 8",
+            "color" : "dolor",
+            "startDate" : "2017-03-15",
+            "endDate" : "2017-03-15"
+        },
+        "55db0e82f6ca4742178b456b" : {
+            "name" : "phot aerienne @Haifid",
+            "color" : "lorem",
+            "startDate" : "2015-08-24",
+            "endDate" : "2015-08-25"
+        }
+    }
+}

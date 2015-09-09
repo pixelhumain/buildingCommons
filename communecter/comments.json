@@ -1,0 +1,10 @@
+{
+    "_id" : ObjectId("55d315e8f6ca47a65656b847"),
+    "contextId" : "55d315c8b5a6a33002e8ff3b",
+    "contextType" : "surveys",
+    "parentId" : "",
+    "text" : "test de comment",
+    "created" : 1.4399e+09,
+    "author" : "520931e2f6b95c5cd3003d6c",
+    "tags" : null
+}

@@ -32,7 +32,7 @@ English Version :
 - [Building Commons #2](http://youtu.be/6fW8SXRENhc)
   - [chat history] (https://github.com/pixelhumain/buildingCommons/blob/master/meetups%20and%20links/20141007_buildingcommons%232.txt)
 
-Who 
+Who is building Commons
 ===========
 * [Assemblée Virtuelle](http://assemblee-virtuelle.org/)
 * [Unisson (Imagination.social)](unisson.co)
@@ -45,6 +45,8 @@ Who
 * [Bob Haugen](http://mikorizal.org/bob_haugen.json)
 * [Open Value Network](https://github.com/openvocab/ovn)
 * [jon Richter / Transformap](http://blog.14mmm.org/)
+* [codeforamerica : Civic Tech](http://codeforamerica.org/api/#api-organizations)
+* [Popolo](http://popoloproject.com/specs/)
 
 
 

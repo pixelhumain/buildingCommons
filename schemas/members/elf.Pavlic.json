@@ -1,0 +1,118 @@
+{
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cco": "http://purl.org/ontology/cco/core#",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "id": "@id",
+    "type": "@type",
+    "attendeeIn": { "@reverse": "attendee" }
+  },
+  "id": "https://wwelves.org/perpetual-tripper",
+  "type": ["Person", "foaf:Person"],
+  "name": "elf Pavlik",
+  "image": "http://wwelves.org/images/elf-pavlik.jpg",
+  "homeLocation": {
+    "type": "Place",
+    "id": "http://sws.geonames.org/6295630/",
+    "name": "Earth"
+  },
+  "currentLocation": {
+    "type": "Place",
+    "id": "http://sws.geonames.org/2950159/",
+    "name": "Berlin"
+  },
+  "description": "#hacker / #elf - living strictly #moneyless and #stateless already for over 5 years! #WorldPeaceGame #proplayer",
+  "contactPoint":[
+    {
+      "type": "ContactPoint",
+      "id": "mailto:perpetual-tripper@wwelves.org",
+      "name": "email (smtp)"
+    }, {
+      "type": "ContactPoint",
+      "id": "xmpp:perpetual-tripper@wwelves.org",
+      "name": "jabber (xmpp)"
+    }, {
+      "type": "ContactPoint",
+      "id": "https://github.com/elf-pavlik",
+      "name": "Github"
+    }, {
+      "type": "ContactPoint",
+      "id": "https://twitter.com/elfpavlik",
+      "name": "Twitter"
+    }, {
+      "type": "ContactPoint",
+      "id": "https://plus.google.com/+elfPavlik",
+      "name": "Google+"
+    }, {
+      "type": "ContactPoint",
+      "id": "https://facebook.com/elf.pavlik",
+      "name": "Facebook"
+    }
+  ],
+  "cco:habit": [
+    {
+      "type": "cco:CognitiveCharacteristic",
+      "cco:topic": {
+        "id": "http://dbpedia.org/resource/Joint_(cannabis)",
+        "name": "Joint (cannabis)"
+      }
+    },
+    {
+      "type": "cco:CognitiveCharacteristic",
+      "cco:topic": {
+        "id": "http://dbpedia.org/resource/Chocolate",
+        "name": "Chocolate"
+      }
+    }
+  ],
+  "member":[
+    {
+      "type": "Organization",
+      "id": "http://unmonastery.org",
+      "name": "unMonastery"
+    }, {
+      "type": "Organization",
+      "id": "https://wwelves.org",
+      "name": "worldwide elves"
+    }, {
+      "type": "Organization",
+      "id": "http://hackers4peace.net",
+      "name": "hackers4peace"
+    }, {
+      "type": "Organization",
+      "id": "http://moneyless.info",
+      "name": "moneyless world"
+    }, {
+      "type": "Organization",
+      "id": "http://ouishare.net",
+      "name": "OuiShare"
+    }, {
+      "type": "Organization",
+      "id": "http://labs.ouishare.net",
+      "name": "OuiShare Labs"
+    }, {
+      "type": "Organization",
+      "id": "http://edgeryders.eu",
+      "name": "Edgeryders"
+    }
+  ],
+  "attendeeIn": [
+    {
+      "type": "Event",
+      "id": "http://2014.okfestival.org",
+      "name": "OKFestival 2014"
+    }, {
+      "type": "Event",
+      "id": "http://2014.ouisharefest.com",
+      "name": "OuiShare Fest 2014"
+    }, {
+      "type": "Event",
+      "id": "http://2013.elevate.at",
+      "name": "Elevate Festival 2013"
+    }, {
+      "type": "Event",
+      "id": "http://sense-camp.org/#2014",
+      "name": "SenseCamp Berlin 2014"
+    }
+  ]
+}

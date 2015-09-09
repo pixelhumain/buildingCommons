@@ -1,0 +1,239 @@
+{
+    "_id" : ObjectId("54eed95ea1aa143e020041c8"),
+    "address" : {
+        "@type" : "PostalAddress",
+        "addressCountry" : "RE",
+        "addressLocality" : "Saint-Joseph",
+        "codeInsee" : "97412",
+        "geo" : {
+            "@type" : "GeoCoordinates",
+            "latitude" : "0.00000000",
+            "longitude" : "0.00000000"
+        },
+        "postalCode" : "97480",
+        "streetAddress" : "rue coco cocosssss"
+    },
+    "canEditMember" : true,
+    "created" : 1424940000.0000000000000000,
+    "creator" : "520931e2f6b95c5cd3003d6c",
+    "description" : "Groupement Régional des Acteurs de l'éducation à l'eNvironnement pour un Développement Durable de l'Île de La Réunion",
+    "dummyData" : "personNetworkingAll",
+    "email" : "granddir974@gmail.com",
+    "imagePath" : "/upload/communecter/organizations/54eed95ea1aa143e020041c8/1545200_790557670987071_4658848602099164802_n.jpg",
+    "links" : {
+        "events" : {
+            "554a115ff6ca47744c8b4575" : {
+                "type" : "events"
+            },
+            "554c577ef6ca47230c8b456b" : {
+                "type" : "events"
+            },
+            "5579f9a7f6ca470b758b4569" : {
+                "type" : "events"
+            },
+            "5579f9f0f6ca471c688b4577" : {
+                "type" : "events"
+            },
+            "557a64f2f6ca4711028b4567" : {
+                "type" : "events"
+            },
+            "557a653af6ca470b758b456a" : {
+                "type" : "events"
+            },
+            "557e5ee8f6ca47ab2019eb1c" : {
+                "type" : "events"
+            }
+        },
+        "members" : {
+            "520931e2f6b95c5cd3003d6c" : {
+                "roles" : [ 
+                    ""
+                ],
+                "isAdmin" : true,
+                "type" : "citoyens"
+            },
+            "54eed904a1aa1458b70041ae" : {
+                "type" : "organizations"
+            },
+            "54eed904a1aa1958b70041ef" : {
+                "type" : "organizations"
+            },
+            "55364117f6b95cdc16007449" : {
+                "roles" : [ 
+                    "social"
+                ],
+                "type" : "organizations"
+            },
+            "55375430f6b95c3c1c004cd5" : {
+                "roles" : [ 
+                    "culture"
+                ],
+                "type" : "organizations"
+            },
+            "553778dcf6b95c681d00795b" : {
+                "roles" : [ 
+                    ""
+                ],
+                "toBeValidated" : true,
+                "type" : "citoyens"
+            },
+            "5537da42f6b95cec0d00357f" : {
+                "roles" : [ 
+                    ""
+                ],
+                "type" : "organizations"
+            },
+            "5537da83f6b95c6004000072" : {
+                "roles" : [ 
+                    ""
+                ],
+                "type" : "organizations"
+            },
+            "55388c5ff6b95c201c006033" : {
+                "roles" : [ 
+                    ""
+                ],
+                "type" : "organizations"
+            },
+            "5539ef42f6b95cac180013ba" : {
+                "roles" : [ 
+                    ""
+                ],
+                "type" : "organizations"
+            },
+            "5539f0cbf6b95c5005001a2b" : {
+                "roles" : [ 
+                    ""
+                ],
+                "type" : "organizations"
+            },
+            "5539f368f6b95c50050058df" : {
+                "roles" : [ 
+                    ""
+                ],
+                "type" : "organizations"
+            },
+            "553ddf85f6b95c201c005dd7" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "553de028f6b95c301c002b02" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "553de8d8f6b95c201c001d13" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "554a12b5f6ca47744c8b4577" : {
+                "roles" : [ 
+                    ""
+                ],
+                "type" : "organizations"
+            },
+            "554a19a1f6ca4734288b458b" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "554a1dbdf6ca47301c8b4599" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "554b1777f6ca47532d8b4569" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "554b1820f6ca47522d8b4569" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "554b1bd4f6ca47872f8b456d" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "556373ccf6ca47d37663579f" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "5566a591f6ca47014a8b456c" : {
+                "roles" : [ 
+                    "Bureau"
+                ],
+                "type" : "citoyens"
+            },
+            "5566a7eef6ca47c86d8b4568" : {
+                "isAdmin" : true,
+                "roles" : [ 
+                    "Equipe"
+                ],
+                "type" : "citoyens"
+            },
+            "55675687f6ca47503f8b4583" : {
+                "roles" : [ 
+                    "Etude", 
+                    "Bureau"
+                ],
+                "type" : "citoyens"
+            },
+            "5577c9a0f6ca478f2d8b4571" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "5577d3d4f6ca4792468b4567" : {
+                "roles" : [ 
+                    "Conseil d'administration"
+                ],
+                "type" : "citoyens"
+            },
+            "5579e8d8f6ca470e778b4568" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "5579f583f6ca4786798b4569" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "5579f645f6ca4781648b4577" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            },
+            "557ae903f6ca47760c8b456e" : {
+                "isAdmin" : true,
+                "toBeValidated" : true,
+                "type" : "organizations"
+            }
+        }
+    },
+    "name" : "GRANDDIR observatoire de la mer et de la terre",
+    "public" : [ 
+        "Enseignants"
+    ],
+    "roles" : [ 
+        "Equipe", 
+        "Conseil d'administration", 
+        "Bureau"
+    ],
+    "shortDescription" : "<p>swim with sharks like a fish in a glass<br></p>",
+    "tags" : [ 
+        "Education populaire"
+    ],
+    "type" : "NGO",
+    "typeIntervention" : [ 
+        "Accueil à la journée"
+    ],
+    "url" : "granddir.re",
+    "video" : "<iframe src=\"https://player.vimeo.com/video/74212373\" frameborder=\"0\" height=\"281\" width=\"500\"></iframe>"
+}
