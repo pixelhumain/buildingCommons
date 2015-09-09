@@ -1,0 +1,31 @@
+{
+"name":"",
+"description":"",
+"shortdesc":"",
+//"problem" : ""
+"parentId": ,
+"parentType" : "project || task",
+"author": "",
+"assignedTo" : "",
+"modifiedBy" : [],
+"type" : "",  
+"createdDate" : "",
+"updatedDate" : "",
+"startDate" : "",
+"endDate" : "",
+//"estimatedStartDate" : ,
+//"estimatedEndDate" : ,
+"percent" : "",
+"status" : "",
+"priority" : "urgent || high || normal || low",
+"tags" : [""],
+"properties" : {
+  "":""
+},
+"comments" : {
+  "":""
+},
+"documents" : {
+  "":""
+}
+}

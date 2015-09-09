@@ -1,3 +1,4 @@
+
 {
     "@context": "http://schema.org",
     "@type": "Organization",
@@ -13,4 +14,46 @@
         "description": "",
         "image": "http://2.bp.blogspot.com/-Ig3DTfUzDiM/UgNtDih5iEI/AAAAAAAAG8s/e7PP1_SwS6Y/s1600/_SL01653-2.jpg"
     },]
+}
+
+based on this discussion 
+https://github.com/hackers4peace/plp-docs/issues/12#issuecomment-77818837
+{
+  "@context": [
+    "http://schema.org",
+    { "superOrganization": { "@reverse": "subOrganization" } }
+  ],
+  "@graph": [
+    {
+      "@id": "https://enspiral.com/",
+      "@type": "Organization",
+      "name": "Enspiral",
+      "member": [
+        "https://www.loomio.org/u/g48DQjS5/mikey-the-human"
+      ],
+     "subOrganization": [
+       "http://loomio.org"
+     ]
+    },
+    {
+      "@id": "https://www.loomio.org/u/g48DQjS5/mikey-the-human",
+      "@type": "Person",
+      "name": "Mikey",
+      "memberOf": [
+        "https://enspiral.com",
+        "https://loomio.org"
+      ]
+    },
+    {
+      "@id": "https://loomio.org",
+      "@type": "Organization",
+      "name": "Loomio",
+      "member": [
+        "https://www.loomio.org/u/g48DQjS5/mikey-the-human"
+      ],
+      "superOrganization": [
+        { "@id": "https://enspiral.com" }
+      ]
+    }
+  ]
 }

@@ -4,9 +4,15 @@ Building Commons
 This is repo lists of json-LD structures coming from Building Commons projects (dev-Common,artist-common...) .
 It's a list of json-ld structures working on dev-commons projects and are allready final and functional 
 Dev-Commons applications share some specifities that make them interoperable: 
-- Open Apis
-- Common Vocabulary using Web Semantics like schema.org, Activity Streams or any other existing Ontologies/vocabulary
-- LinkData (json-LD)
+- [Open Apis](https://www.loomio.org/g/exAKrBUp/open-app-ecosystem)
+- [LinkData (json-LD)](http://json-ld.org/)
+
+Semantic & Common Vocabularies
+- [schema.org](schema.org) 
+- [Activity Streams](https://github.com/activitystreams/activity-schema/blob/master/activity-schema.md)
+- [Microformat](http://microformats.org)
+- [Hydra Apis](http://www.markus-lanthaler.com/hydra/)
+- [or any other existing Ontologies/vocabulary](http://lov.okfn.org/dataset/lov/)
 
 These can be used as starting points, 
 but also mean there is an open source and functional project behind  (with it's api)
@@ -32,7 +38,7 @@ English Version :
 - [Building Commons #2](http://youtu.be/6fW8SXRENhc)
   - [chat history] (https://github.com/pixelhumain/buildingCommons/blob/master/meetups%20and%20links/20141007_buildingcommons%232.txt)
 
-Who is building Commons
+Who 
 ===========
 * [Assemblée Virtuelle](http://assemblee-virtuelle.org/)
 * [Unisson (Imagination.social)](unisson.co)
@@ -45,9 +51,4 @@ Who is building Commons
 * [Bob Haugen](http://mikorizal.org/bob_haugen.json)
 * [Open Value Network](https://github.com/openvocab/ovn)
 * [jon Richter / Transformap](http://blog.14mmm.org/)
-* [codeforamerica : Civic Tech](http://codeforamerica.org/api/#api-organizations)
-* [Popolo](http://popoloproject.com/specs/)
-
-
-
 
