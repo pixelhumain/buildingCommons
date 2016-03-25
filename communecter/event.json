@@ -1,0 +1,45 @@
+{
+    "_id" : ObjectId("563206fbe41d75d7733ba4cf"),
+    "public" : true,
+    "created" : NumberLong(1446119163),
+    "creator" : "562f3e11e41d7546793ba4c6",
+    "name" : "Alternatiba",
+    "address" : {
+        "@type" : "PostalAddress",
+        "postalCode" : "97410",
+        "addressLocality" : "ST PIERRE",
+        "codeInsee" : "97416"
+    },
+    "geo" : {
+        "@type" : "GeoCoordinates",
+        "latitude" : "-21.344066033934563",
+        "longitude" : "55.47340393066406"
+    },
+    "links" : {
+        "attendees" : {
+            "562f3e11e41d7546793ba4c6" : {
+                "isAdmin" : true
+            },
+            "55d43913e41d75ee247b23ca" : {
+                "type" : "citoyens"
+            }
+        },
+        "creator" : {
+            "562f3e11e41d7546793ba4c6" : {
+                "type" : "citoyens"
+            }
+        }
+    },
+    "geoPosition" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            55.4734039306640625, 
+            -21.3440660339345634
+        ]
+    },
+    "description" : "Alternatiba Alternatiba",
+    "type" : "competition",
+    "startDate" : ISODate("2015-11-08T04:00:00.000+04:00"),
+    "endDate" : ISODate("2015-11-10T03:59:00.000+04:00"),
+    "allDay" : true
+}
