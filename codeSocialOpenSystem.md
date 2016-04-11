@@ -128,26 +128,3 @@ Le fonctionnement ouvert de la communauté est une condition de réussite, pour 
 On suivra la sagesse de Gandhi qui dit que tout ce qui n’est pas partagé sera perdu. Pour être efficients, élaborons en communauté de nouvelles licences à réciprocité, rétribuant tous les acteurs d’un processus, pour sortir d’un système fatigué, totalement individualiste et orienté vers la rentabilité.
 
 L’objectif de l’écosystème est de créé un organisme vivant , plus riche que la somme de ses parties et vers lequel chaque partie peut se tourner pour s’inspirer, se ressourcer, se rassurer, se confronter, se reposer.... 
-
-
-
-
-Proposition de nom de cette instance d’ecosysteme ouvert
-Open People (j’ai le dns)
-Le Cosysteme 
-Open System : resultat Google interessant 
-https://en.wikipedia.org/wiki/Open_system
-Open systems have a number of consequences. A closed system contains limited energies. The definition of an open system assumes that there are supplies of energy that cannot be depleted; in practice, this energy is supplied from some source in the surrounding environment, which can be treated as infinite for the purposes of study. 
-French/Greek philosopher Kostas Axelos argued that seeing the "world system" as inherently open (though unified) would solve many of the problems in the social sciences, including that of praxis (the relation of knowledge to practice), so that various social scientific disciplines would work together rather than create a monopoly whereby the world appears only sociological, political, historical, or psychological. Axelos argues that theorizing a closed system contributes to making it closed, and is thus a conservative approach
-https://fr.wikipedia.org/wiki/Syst%C3%A8me_ouvert
-Opensystem.io est dispo 
-https://www.google.com/search?q=Open+System&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjb1P3s4PnLAhXBWBQKHSAND1gQ_AUIBygB&biw=1877&bih=971
-https://fr.wikipedia.org/wiki/Ouverture_(philosophie)
-Building Commons
-
-Clément:
-Excellent, bravo pour ce beau boulot sur le code social. Il est écrit de façon à être totalement ouvert dans le temps et pose des bases qui sont vraiment éthiques aux valeurs et philosophies que l’on veut mettre en place. Bravo !!!
-
-
-
-
