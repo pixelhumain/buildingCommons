@@ -79,23 +79,14 @@ Accompagner les acteurs publics, privés et les citoyens dans leurs transitions 
 
 ###Imaginaire, sources d'inspiration
 Parce qu’il fait interagir une pluralité d’acteurs ayant chacun une histoire propre, l’écosystème se nourrit d’une diversité d’imaginaires, de sources d’inspiration, ce qui en fait sa richesse, sa spécificité. Parmi ses sources d’inspiration, nous pouvons notamment citer : 
-
 * les notions d’autonomie, de liberté, de fraternité et de solidarité. Les pensées et dynamiques qui se sont développées autour de la démocratie directe, de la démocratie liquide, de la souveraineté ‒ qu’elle soit individuelle ou collective ‒ de la citoyenneté, de l’opengov.
-
 * Le monde de l’open-source ainsi que celui des communs dont on peut considérer qu’ils ont et sont en train de très concrètement changer le monde en permettant le développement de projets aussi beaux et fous que le web ou wikipedia.  
-
 * Le peer to peer tel que défini par Michel Bauwens, la théorie des systèmes ‒ complexes ‒ qui ont permis un nouveau regard sur le monde, à travers les notions de combinatoire, d’auto-organisation, d’émergence,....
-
 * Le web sémantique, le W3C, le web qui ont consacré les notions de standards, d’interopérabilité, de neutralité.
-
 * Les nouvelles formes d’économie, collaboratives, circulaires, numériques, agiles, fablabs, DIY, DIWO, Hackerspaces, et celles émergentes qui, comme les DAO (Distributed Autonomous Organisations), permettent d’entrevoir des changements profonds à grande échelle quand à l’architecture du monde social.
-
 * Le vivant, qui pour beaucoup d’entre nous, constitue un objet d’intérêt, tant il est complexe, tant les milliards d’années qui ont conduit à sa physionomie et à sa dynamique actuelles sont riches d’enseignement dans tous les domaines (économie, politique, technique notamment - #biomimétisme) ; les penseurs de la complexité et des systèmes émergents, et notamment le romancier Arthur Koestler qui a proposé le concept de holon. 
-
 * L’écologie et la permaculture qui à travers la profondeur de leurs questions et la pertinence de leurs réponses, nous donnent une raison de plus d’agir et d’espérer changer le monde.
-
 * Le jeu, l’élan vital, l’hédonisme, l’épicurisme, la joie, et toutes les choses de la vie qui procurent aux êtres sensibles que nous sommes, la sensation d’être vivant, heureux, insouciants, en forme, en harmonie avec soi, les autres et le monde.
-
 * La communication bienveillante, et de manière générale les bienfaits d’une meilleure connaissance de soi pour se donner la capacité de développer des relations sociales harmonieuses.
 
 ###Vivre ensemble c’est faire ensemble
