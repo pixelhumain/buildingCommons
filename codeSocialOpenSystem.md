@@ -56,14 +56,14 @@ Dans le même esprit, les membres de l’écosystème s’engagent à veiller à
 Les missions
 ###Missions internes
 Produire un cadre, notamment à travers un code social, et créer les conditions de la collaboration entre les membres sur des logiques de mutualisation et de complémentarité ;
-Mettre en œuvre un fonctionnement interne bienveillant et "permaculturel" : on s’adapte constamment aux particularités locales, aux contextes, aux collaborateurs... 
-Créer concrètement les conditions d'une interopérabilité humaine et technologique ;
-Œuvrer à la mise en place d'un langage commun ;
-Se former en pair à pair sur ce que nous faisons les uns les autres et permettre le développement de fertilisations croisées entre les acteurs et projets de l’écosystème ;
-Proposer  un catalogue d’offres en liens direct avec les valeurs de l’écosystème ;
-Développer massivement des instances de l’ODB (Open Data Base), une base de données partagée et ouverte à la contribution. A l’image de Wikipedia, cette base de données est ouverte à la contribution et sécurisée, chacun choisit les limites d’ouverture de la donnée qu’il apporte ;
-Modéliser le fonctionnement d’écosystèmes et d’organisations ouvertes ;
-Créer un réseau de tiers lieux camps TIC, où n’importe qui peut découvrir un membre de l’écosystème, où l’écosystème peut se réunir, où on peut rediffuser et partager une activité d’un autre tiers lieux.
+* Mettre en œuvre un fonctionnement interne bienveillant et "permaculturel" : on s’adapte constamment aux particularités locales, aux contextes, aux collaborateurs... 
+* Créer concrètement les conditions d'une interopérabilité humaine et technologique ;
+* Œuvrer à la mise en place d'un langage commun ;
+* Se former en pair à pair sur ce que nous faisons les uns les autres et permettre le développement de fertilisations croisées entre les acteurs et projets de l’écosystème ;
+* Proposer  un catalogue d’offres en liens direct avec les valeurs de l’écosystème ;
+* Développer massivement des instances de l’ODB (Open Data Base), une base de données partagée et ouverte à la contribution. A l’image de Wikipedia, cette base de données est ouverte à la contribution et sécurisée, chacun choisit les limites d’ouverture de la donnée qu’il apporte ;
+* Modéliser le fonctionnement d’écosystèmes et d’organisations ouvertes ;
+* Créer un réseau de tiers lieux camps TIC, où n’importe qui peut découvrir un membre de l’écosystème, où l’écosystème peut * se réunir, où on peut rediffuser et partager une activité d’un autre tiers lieux.
  
 En créant ces conditions en interne, nous posons une base éthique et efficiente pour impulser un changement de société. Nous donnerons ainsi une assise aux missions externes par auto-légitimation ("c'est parce que ça a marché pour nous que nous transmettons cette expérience").
  
@@ -71,11 +71,13 @@ En créant ces conditions en interne, nous posons une base éthique et efficient
 La mission générique de l’écosystème est de mettre en oeuvre la recherche, le développement, l’expérimentation, la documentation, et la diffusion autour de l'ingénierie des écosystèmes trans-organisationnels. Cette mission peut se décliner comme suit :
 
 Accompagner les acteurs publics, privés et les citoyens dans leurs transitions (énergétique, écologique, démocratique, etc...) vers les communs ;
-Offrir des opportunités aux entreprises, associations, collectivités, élus, citoyens, de s'impliquer en faveur des communs (outils, dynamique,...) et leur proposer des dispositifs de capacitation ;
-Développer, distribuer, former sur les communs et les solutions libre et opensources 
-Partager les éléments de réussite et d'échec de l'expérience.
-Faisceau de valeurs
-Imaginaire, sources d'inspiration
+* Offrir des opportunités aux entreprises, associations, collectivités, élus, citoyens, de s'impliquer en faveur des communs (outils, dynamique,...) et leur proposer des dispositifs de capacitation ;
+* Développer, distribuer, former sur les communs et les solutions libre et opensources 
+* Partager les éléments de réussite et d'échec de l'expérience.
+
+##Faisceau de valeurs
+
+###Imaginaire, sources d'inspiration
 Parce qu’il fait interagir une pluralité d’acteurs ayant chacun une histoire propre, l’écosystème se nourrit d’une diversité d’imaginaires, de sources d’inspiration, ce qui en fait sa richesse, sa spécificité. Parmi ses sources d’inspiration, nous pouvons notamment citer : 
 
 * les notions d’autonomie, de liberté, de fraternité et de solidarité. Les pensées et dynamiques qui se sont développées autour de la démocratie directe, de la démocratie liquide, de la souveraineté ‒ qu’elle soit individuelle ou collective ‒ de la citoyenneté, de l’opengov.
