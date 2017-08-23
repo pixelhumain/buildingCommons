@@ -1,0 +1,19 @@
+{
+    "_id" : ObjectId("597f965a539f22f26dd271d4"),
+    "section" : "competence",
+    "name" : "croco rrsc",
+    "tags" : [ 
+        "competence", 
+        "competence"
+    ],
+    "parentId" : "58d7e06e539f221b3d09bba7",
+    "parentType" : "place",
+    "modified" : ISODate("2017-08-01T17:04:08.000Z"),
+    "updated" : NumberLong(1501607048),
+    "creator" : "585bdfdaf6ca47b6118b4583",
+    "created" : NumberLong(1501533802),
+    "profilImageUrl" : "/upload/communecter/ressource/597f965a539f22f26dd271d4/valeurs.png",
+    "profilMediumImageUrl" : "/upload/communecter/ressource/597f965a539f22f26dd271d4/medium/valeurs.png",
+    "profilThumbImageUrl" : "/upload/communecter/ressource/597f965a539f22f26dd271d4/thumb/profil-resized.png?t=1501607049",
+    "profilMarkerImageUrl" : "/upload/communecter/ressource/597f965a539f22f26dd271d4/thumb/profil-marker.png"
+}
