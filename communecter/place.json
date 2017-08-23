@@ -1,0 +1,42 @@
+{
+    "_id" : ObjectId("5981c259539f2262428b456d"),
+    "section" : "public",
+    "type" : "TiersLieux",
+    "subtype" : "Fablab",
+    "name" : "sdfgdfg df",
+    "tags" : [ 
+        "public", 
+        "TiersLieux", 
+        "Fablab"
+    ],
+    "address" : {
+        "@type" : "PostalAddress",
+        "codeInsee" : "19007",
+        "streetAddress" : "",
+        "postalCode" : "19120",
+        "addressLocality" : "ALTILLAC",
+        "depName" : "CORREZE",
+        "regionName" : "Aquitaine-Limousin-Poitou-Charentes",
+        "addressCountry" : "FR"
+    },
+    "geo" : {
+        "@type" : "GeoCoordinates",
+        "latitude" : "44.97779990",
+        "longitude" : "1.84657330"
+    },
+    "geoPosition" : {
+        "type" : "Point",
+        "coordinates" : [ 
+            1.8465733000000000, 
+            44.9777999000000008
+        ]
+    },
+    "modified" : ISODate("2017-08-02T12:15:43.000Z"),
+    "updated" : NumberLong(1501676143),
+    "creator" : "585bdfdaf6ca47b6118b4583",
+    "created" : NumberLong(1501676143),
+    "profilImageUrl" : "/upload/communecter/place/5981c259539f2262428b456d/leCOSYSTEM.png",
+    "profilMediumImageUrl" : "/upload/communecter/place/5981c259539f2262428b456d/medium/leCOSYSTEM.png",
+    "profilThumbImageUrl" : "/upload/communecter/place/5981c259539f2262428b456d/thumb/profil-resized.png?t=1501676143",
+    "profilMarkerImageUrl" : "/upload/communecter/place/5981c259539f2262428b456d/thumb/profil-marker.png"
+}
